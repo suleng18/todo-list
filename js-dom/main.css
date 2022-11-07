@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.alert-success {
+  color: #ffffff;
+  background-color: #35c080;
+  border-color: #badbcc;
+}
